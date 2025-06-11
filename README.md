@@ -25,9 +25,6 @@ A Streamlit web app that uses machine learning to **predict whether a breast tum
 - Source: [UCI Breast Cancer Wisconsin Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 - 569 samples, 30 numerical features
 
-## 📸 Preview
-
-![App Screenshot](https://user-images.githubusercontent.com/your-github-user/your-screenshot-link.png)
 
 ## 👨‍💻 Author
 
